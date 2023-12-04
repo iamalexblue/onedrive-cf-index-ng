@@ -50,11 +50,11 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Blue Wonderland'
+      name: 'Blue Wonderland',
       link: 'https://iamalex.blue',
     },
     {
-      name: 'xlog'
+      name: 'xlog',
       link: 'https://ifruit.club',
     },
     {
@@ -62,7 +62,7 @@ module.exports = {
       link: 'https://github.com/iamalexblue',
     },
     {
-      name: 'status'
+      name: 'status',
       link: 'https://status.iamalex.blue',
     },
   ],
