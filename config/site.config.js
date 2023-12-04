@@ -51,11 +51,11 @@ module.exports = {
   links: [
     {
       name: 'Blue Wonderland'
-      link: 'https://iamalex.blue'
+      link: 'https://iamalex.blue',
     },
     {
       name: 'xlog'
-      link: 'https://ifruit.club'
+      link: 'https://ifruit.club',
     },
     {
       name: 'GitHub',
@@ -63,7 +63,7 @@ module.exports = {
     },
     {
       name: 'status'
-      link: 'https://status.iamalex.blue'
+      link: 'https://status.iamalex.blue',
     },
   ],
 
